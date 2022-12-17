@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi. I'm Vaibhav, a final year computer science student at IIIT Delhi. Apart from being a student, I'm a freelancer working as a full-stack web developer and a content writer.<br><br>🔭 I’m currently developing a platform using the MERN stack which is similar to Shopify<br>🌱 I’m currently learning Cloud Computing and MERN stack
+Hi. I'm Vaibhav, a final year computer science student at IIIT Delhi. Apart from being a student, I'm a freelancer working as a full-stack web developer and a content writer.
 
 
 ## 🌐 Socials
